@@ -1,6 +1,6 @@
 # Lista de Nomes 
 
+-Olá
 - Eu Sou Francisco Douglas e vc?
-- ola 
-Lucas Moura Morell
+Olá, me chamo Lucas Moura Morell
 
